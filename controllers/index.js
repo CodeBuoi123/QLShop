@@ -9,11 +9,7 @@ var arrProduct = [
 ]
 
 function renderproduct () {
-<<<<<<< HEAD
-    console.log('a mới test lại này devA')
-=======
-    console.log('em mới làm nè')
->>>>>>> a09847b6581076f7cbce566a1aa0094acbae5a8c
+    console.log('Đã sửa nè hehe')
     var content = '';
     for (var i=0; i < arrProduct.length; i++) {
         let product = arrProduct[i];
