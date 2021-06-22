@@ -5,5 +5,5 @@ function devA () {
 }
 
 function createBranchDevA () {
-    console.log ('tạo nhánh devA')
+    console.log ('tạo nhánh devA');
 }
